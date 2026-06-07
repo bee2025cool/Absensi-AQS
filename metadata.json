@@ -1,0 +1,6 @@
+{
+  "name": "Absensi",
+  "description": "Aplikasi absensi karyawan dengan verifikasi foto kamera depan dan GPS lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
